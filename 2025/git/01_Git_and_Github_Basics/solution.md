@@ -1,4 +1,4 @@
-All the ommands that are used in task 1-4 
+All the commands that are used in task 1-4 
 
 1. git clone <your-fork-url>
 2. git init
